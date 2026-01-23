@@ -54,8 +54,7 @@
 - 📚 Linked List, Stack, Queue  
 - 📚 Trees, Graphs, Binary Search  
 
-🔗 **LeetCode Profile**  
-https://leetcode.com/u/hitendra018/
+🔗 **LeetCode Profile** https://leetcode.com/u/hitendra018/
 
 ---
 
@@ -71,7 +70,7 @@ https://leetcode.com/u/hitendra018/
 
 <p align="center">
   <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=hitendras510&theme=dark&hide_border=false"
+    src="https://streak-stats.demolab.com/?user=hitendras510&theme=dark"
     alt="GitHub Streak Stats"
   />
 </p>
