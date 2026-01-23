@@ -13,7 +13,7 @@
 - 💻 Focused on **Backend Development and Problem Solving**
 - 🧠 Solved **100+ Data Structures & Algorithms problems**
 - 🧩 Experience building backend services using **Node.js, Express, and WebSockets**
-- ☁️ Currently **exploring Cloud Engineering concepts** alongside backend development
+- ☁️ Currently **exploring Cloud Engineering concepts**
 - 🎯 Preparing for **Software Engineering Internships**
 
 ---
@@ -50,12 +50,9 @@
 ## 📊 DSA & Problem Solving
 
 - ✅ Solved **100+ problems**
-- 📚 Topics covered:
-  - Arrays & Strings  
-  - Recursion & Backtracking  
-  - Linked List, Stack, Queue  
-  - Trees & Graphs  
-  - Binary Search  
+- 📚 Arrays, Strings, Recursion, Backtracking  
+- 📚 Linked List, Stack, Queue  
+- 📚 Trees, Graphs, Binary Search  
 
 🔗 **LeetCode Profile**  
 https://leetcode.com/u/hitendra018/
@@ -70,10 +67,13 @@ https://leetcode.com/u/hitendra018/
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak (Total Contributions • Current • Longest)
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hitendras510&theme=dark&hide_border=false" />
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=hitendras510&theme=dark&hide_border=false"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ---
