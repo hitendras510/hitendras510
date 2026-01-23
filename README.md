@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hitendra Singh 👋</h1>
-<h3 align="center">Backend Development • Cloud Engineer • DSA • Problem Solving Ability</h3>
+<h3 align="center">Backend Development • Data Structures & Algorithms • Problem Solving</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hitendras510&label=Profile%20views&color=0e75b6&style=flat" />
@@ -12,10 +12,9 @@
 - 🎓 Computer Science Undergraduate  
 - 💻 Focused on **Backend Development and Problem Solving**
 - 🧠 Solved **100+ Data Structures & Algorithms problems**
-- 🧩 Interested in building scalable backend systems and clean APIs
+- 🧩 Experience building backend services using **Node.js, Express, and WebSockets**
 - ☁️ Currently **exploring Cloud Engineering concepts** alongside backend development
 - 🎯 Preparing for **Software Engineering Internships**
-
 
 ---
 
@@ -27,12 +26,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
-### 🔧 Backend & Databases
+### 🔧 Backend, Real-Time & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+
+🟢 Real-time communication using **WebSockets**
 
 ### 🌐 Frontend (Working Knowledge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -57,17 +58,11 @@ https://leetcode.com/u/hitendra018/
   <img src="https://leetcard.jacoblin.cool/hitendra018?theme=dark&font=Karma&ext=activity" />
 </p>
 
+---
 
-## 🔥 GitHub Activity & Streak
+## 🔥 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=hitendras510&theme=react&cache_seconds=86400"
-    alt="GitHub Streak"
-  />
-</p>
-
-
+🟢 Regularly contributing through backend projects, DSA practice, and continuous learning.
 
 ---
 
@@ -90,4 +85,4 @@ https://leetcode.com/u/hitendra018/
 
 ---
 
-⭐ Focused on mastering backend development,Cloud Engineering and DSA through consistent practice and real-world projects.
+⭐ Focused on strengthening backend development, exploring cloud engineering concepts, and mastering DSA through consistent practice and real-world projects.
