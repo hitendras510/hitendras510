@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hitendra Singh 👋</h1>
-<h3 align="center">Backend Development • DSA • Cloud Engineer • Problem Solving ability with Strong DSA Fundamentals</h3>
+<h3 align="center">Backend Development • Cloud Engineer • DSA • Problem Solving</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hitendras510&label=Profile%20views&color=0e75b6&style=flat" />
@@ -13,7 +13,9 @@
 - 💻 Focused on **Backend Development and Problem Solving**
 - 🧠 Solved **100+ Data Structures & Algorithms problems**
 - 🧩 Interested in building scalable backend systems and clean APIs
+- ☁️ Currently **exploring Cloud Engineering concepts** alongside backend development
 - 🎯 Preparing for **Software Engineering Internships**
+
 
 ---
 
