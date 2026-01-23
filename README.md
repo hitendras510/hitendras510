@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hitendra Singh 👋</h1>
-<h3 align="center">Backend Development • Data Structures & Algorithms • Problem Solving</h3>
+<h3 align="center">Full Stack Devloper • Data Structures & Algorithms • Problem Solving Ability</h3>
 
 
 
