@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hitendra Singh 👋</h1>
-<h3 align="center">Backend Development • DSA • Computer Science Undergraduate</h3>
+<h3 align="center">Backend Development • DSA • Cloud Engineer • Problem Solving ability with Strong DSA Fundamentals</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hitendras510&label=Profile%20views&color=0e75b6&style=flat" />
@@ -75,11 +75,20 @@ https://leetcode.com/u/hitendra018/
 
 ---
 
+## 🔥 GitHub Activity & Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitendras510&theme=react&hide_border=false" height="170"/>
+</p>
+
+> ⏱️ **Shows your current GitHub contribution streak and longest streak**
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hitendras510&show_icons=true&theme=react" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitendras510&theme=react" height="165"/>
 </p>
 
 <p align="center">
