@@ -66,14 +66,7 @@
 
 ---
 
-## 🔥 GitHub Streak (Total Contributions • Current • Longest)
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hitendras510&theme=dark"
-    alt="GitHub Streak Stats"
-  />
-</p>
 
 ## 📈 GitHub Stats
 
