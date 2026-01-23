@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Hitendra Singh 👋</h1>
 <h3 align="center">Backend Development • Data Structures & Algorithms • Problem Solving</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hitendras510&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
+
 
 ---
 
@@ -33,7 +32,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 
-🟢 Real-time communication using **WebSockets**
+🟢 Real-time communication using **WebSockets & Orms**
 
 ### 🌐 Frontend (Working Knowledge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -45,10 +44,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
----
-
-🔗 **LeetCode Profile**  
-https://leetcode.com/u/hitendra018/
 
 ---
 
@@ -58,11 +53,6 @@ https://leetcode.com/u/hitendra018/
   <img src="https://leetcard.jacoblin.cool/hitendra018?theme=dark&font=Karma&ext=activity" />
 </p>
 
----
-
-## 🔥 GitHub Activity
-
-🟢 Regularly contributing through backend projects, DSA practice, and continuous learning.
 
 ---
 
@@ -82,6 +72,7 @@ https://leetcode.com/u/hitendra018/
 
 - GitHub: https://github.com/hitendras510  
 - LinkedIn: https://www.linkedin.com/in/hitendra-singh-b54a6b33a/
+- LeetCode: https://leetcode.com/u/hitendra018/
 
 ---
 
