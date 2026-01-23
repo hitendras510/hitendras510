@@ -9,12 +9,16 @@
 
 ## 🚀 About Me
 
+## 🚀 About Me
+
 - 🎓 Computer Science Undergraduate  
-- 💻 Focused on **Backend Development and Problem Solving**
-- 🧠 Solved **100+ Data Structures & Algorithms problems**
-- 🧩 Experience building backend services using **Node.js, Express, and WebSockets**
-- ☁️ Currently **exploring Cloud Engineering concepts**
-- 🎯 Preparing for **Software Engineering Internships**
+- 💻 Focused on **Backend Development & Problem Solving**  
+- ⚙️ Experience building backend services using **Node.js, Express, and WebSockets**  
+- 🧠 Solved **200+ Data Structures & Algorithms** problems  
+- ☁️ Actively learning **Cloud Engineering concepts** to design reliable, production-ready systems  
+- 🌱 With a clear goal of contributing to impactful **open-source projects** and participating in **Google Summer of Code (GSoC)**
+ 
+
 
 ---
 
