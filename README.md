@@ -61,29 +61,21 @@ https://leetcode.com/u/hitendra018/
 
 ---
 
-## 📌 Projects
+## 🧠 LeetCode Activity
 
-### 🧾 Resume Builder (Next.js)
-- No authentication flow
-- Live resume preview
-- Clean and reusable UI components
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/hitendra018?theme=dark&font=Karma&ext=activity" />
+</p>
 
-### ⚙️ Backend APIs
-- REST APIs using **Node.js + Express**
-- PostgreSQL & MongoDB integration
-- Prisma ORM for database schema management
-
-*(More projects coming soon 🚧)*
-
----
 
 ## 🔥 GitHub Activity & Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitendras510&theme=react&hide_border=false" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=hitendras510&theme=react" height="170"/>
 </p>
 
-> ⏱️ **Shows your current GitHub contribution streak and longest streak**
+
+
 
 ---
 
