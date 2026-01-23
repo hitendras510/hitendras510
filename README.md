@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Hitendra Singh 👋</h1>
 <h3 align="center">Backend Development • Data Structures & Algorithms • Problem Solving</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hitendras510&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
+
+
 
 ---
 
@@ -70,12 +70,10 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=hitendras510&theme=dark"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hitendras510&theme=dark"
     alt="GitHub Streak Stats"
   />
 </p>
-
----
 
 ## 📈 GitHub Stats
 
@@ -95,5 +93,3 @@
 - LinkedIn: https://www.linkedin.com/in/hitendra-singh-b54a6b33a/
 
 ---
-
-⭐ Focused on strengthening backend development, exploring cloud engineering concepts, and mastering DSA through consistent practice and real-world projects.
