@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hitendra Singh 👋</h1>
-<h3 align="center">Backend Development • Cloud Engineer • DSA • Problem Solving</h3>
+<h3 align="center">Backend Development • Cloud Engineer • DSA • Problem Solving Ability</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hitendras510&label=Profile%20views&color=0e75b6&style=flat" />
@@ -46,16 +46,6 @@
 
 ---
 
-## 📊 DSA & Problem Solving
-
-- ✅ Solved **100+ problems**
-- 📚 Topics covered:
-  - Arrays & Strings
-  - Recursion & Backtracking
-  - Linked List, Stack, Queue
-  - Trees & Graphs
-  - Binary Search
-
 🔗 **LeetCode Profile**  
 https://leetcode.com/u/hitendra018/
 
@@ -71,9 +61,11 @@ https://leetcode.com/u/hitendra018/
 ## 🔥 GitHub Activity & Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hitendras510&theme=react" height="170"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=hitendras510&theme=react&cache_seconds=86400"
+    alt="GitHub Streak"
+  />
 </p>
-
 
 
 
@@ -98,4 +90,4 @@ https://leetcode.com/u/hitendra018/
 
 ---
 
-⭐ Focused on mastering backend development and DSA through consistent practice and real-world projects.
+⭐ Focused on mastering backend development,Cloud Engineering and DSA through consistent practice and real-world projects.
