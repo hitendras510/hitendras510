@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack Devloper • Data Structures & Algorithms • Problem Solving Ability</h3>
 
 
----
 
 
 ---
