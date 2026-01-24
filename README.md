@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Devloper • Data Structures & Algorithms • Problem Solving Ability</h3>
 
 
-
+---
 
 
 ---
@@ -94,9 +94,3 @@
 
 ---
 
-## 🤝 Connect With Me
-
-- GitHub: https://github.com/hitendras510  
-- LinkedIn: https://www.linkedin.com/in/hitendra-singh-b54a6b33a/
-
----
