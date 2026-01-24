@@ -6,7 +6,6 @@
 
 ---
 
-## 🚀 About Me
 
 ## 🚀 About Me
 
