@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Hitendra Singh 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hitendra%20Singh&fontSize=80&animation=fadeIn&fontAlignY=50" alt="Hitendra Singh" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=339933&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Architecture;DSA+Enthusiast;Cloud+Engineering+Learner" alt="Typing SVG" />
@@ -63,5 +65,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitendras510&theme=react&border_radius=10" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitendras510&theme=react&border_radius=10" alt="Hitendra's GitHub Streak" />
+</p>>
