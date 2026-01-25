@@ -71,11 +71,11 @@
 </p>
 
 <p align="center">
-  <b>Hitendra Singh</b> • Engineering Student @ RGPV • 2026 Grad
+  <b>Hitendra Singh</b> • Engineering Student @ RGPV • 2028 Grad
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:hitendrasingh5489@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
   <a href="https://github.com/hitendras510">
