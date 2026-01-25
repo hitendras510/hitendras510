@@ -11,7 +11,7 @@
 > [!IMPORTANT]
 > ### 👨‍💻 Engineering Student | Backend Focused
 > - 🎓 **2nd Year B.Tech Student** at RGPV.
-> - ⚙️ Specialized in **Node.js, Express, and Real-time WebSockets**.
+> - ⚙️ Specialized in **Node.js,Next.js, Express, and Real-time WebSockets**.
 > - 🧠 Solved **200+ DSA Problems** (Primary language: **C++**).
 > - ☁️ Focused on **Backend & Cloud Engineering** for internship readiness.
 > - 🌱 Goal: **Google Summer of Code (GSoC)** & Open Source contributions.
