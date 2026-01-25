@@ -75,7 +75,10 @@
 </p>
 
 <p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
   <a href="https://github.com/hitendras510">
-    <img src="https://img.shields.io/badge/Follow-hitendras510-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Follow-hitendras510-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
   </a>
 </p>
