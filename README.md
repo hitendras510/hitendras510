@@ -29,12 +29,13 @@
 </p>
 
 ### ⚙️ Backend & Database
-| Category | Tech |
+
+| Category | Tech Stack & Tools |
 | :--- | :--- |
-| **Server** | `Node.js`, `Express.js`, `REST APIs` |
-| **Real-time** | `WebSockets (Socket.io)` |
-| **Auth** | `JWT`, `bcrypt`, `CORS Security` |
-| **Database** | `PostgreSQL`, `MongoDB`, `Mongoose`, `Prisma` |
+| **Server** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=google-cloud&logoColor=white) |
+| **Real-time** | ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) |
+| **Auth** | ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![bcrypt](https://img.shields.io/badge/bcrypt-4A90E2?style=flat-square) ![CORS](https://img.shields.io/badge/CORS-API_Security-2E7D32?style=flat-square) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
 
 ### 🌐 Frontend & Tools
 <p align="left">
