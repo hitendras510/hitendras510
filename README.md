@@ -1,8 +1,4 @@
-<div align="center">
-  <h1> 🚀 HITENDRA SINGH </h1>
-  <p><strong>Backend Architecture | Cloud Engineering | DSA Specialist</strong></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hitendra%20Singh&fontSize=70&animation=fadeIn&fontAlignY=38" />
-</div>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=250&section=header&text=Hitendra%20Singh&fontSize=90&animation=fadeIn&fontAlignY=35" alt="Hitendra Singh" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=339933&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Architecture;DSA+Enthusiast;Cloud+Engineering+Learner" alt="Typing SVG" /> </p>
 
 ---
 
