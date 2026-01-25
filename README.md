@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hitendra%20Singh&fontSize=80&animation=fadeIn&fontAlignY=50" alt="Hitendra Singh" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=250&section=header&text=Hitendra%20Singh&fontSize=90&animation=fadeIn&fontAlignY=35" alt="Hitendra Singh" />
 </p>
 
 <p align="center">
@@ -66,4 +66,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitendras510&theme=react&border_radius=10" alt="Hitendra's GitHub Streak" />
-</p>>
+</p>
