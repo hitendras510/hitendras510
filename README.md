@@ -59,17 +59,6 @@
 
 ---
 
-## 📊 DSA & Problem Solving
-
-- ✅ Solved **100+ problems**
-- 📚 Arrays, Strings, Recursion, Backtracking  
-- 📚 Linked List, Stack, Queue  
-- 📚 Trees, Graphs, Binary Search  
-
-🔗 **LeetCode Profile** https://leetcode.com/u/hitendra018/
-
----
-
 ## 🧠 LeetCode Activity
 
 <p align="center">
