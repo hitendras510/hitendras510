@@ -10,8 +10,8 @@
 
 > [!IMPORTANT]
 > ### 👨‍💻 Engineering Student | Backend Focused
-> - 🎓 **2nd Year B.Tech Student** at RGPV.
-> - ⚙️ Specialized in **Node.js,Next.js, Express, and Real-time WebSockets**.
+> - 🎓 **2nd Year B.Tech Student**.
+> - ⚙️ Specialized in **Node.js, Next.js, Express, and Real-time WebSockets**.
 > - 🧠 Solved **200+ DSA Problems** (Primary language: **C++**).
 > - ☁️ Focused on **Backend & Cloud Engineering** for internship readiness.
 > - 🌱 Goal: **Google Summer of Code (GSoC)** & Open Source contributions.
@@ -33,7 +33,7 @@
 | :--- | :--- |
 | **Server** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=google-cloud&logoColor=white) |
 | **Real-time** | ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) |
-| **Auth** | ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![bcrypt](https://img.shields.io/badge/bcrypt-4A90E2?style=flat-square) ![CORS](https://img.shields.io/badge/CORS-API_Security-2E7D32?style=flat-square) |
+| **Auth** | ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![bcrypt](https://img.shields.io/badge/bcrypt-4A90E2?style=flat-square) ![CORS](https://img.shields.io/badge/CORS-API_Security-2E7D32?style=flat-square) |
 | **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
 
 ### 🌐 Frontend (Frameworks & Styling)
@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
@@ -71,7 +70,7 @@
 </p>
 
 <p align="center">
-  <b>Hitendra Singh</b> • Engineering Student @ RGPV • 2028 Grad
+  <b>Hitendra Singh</b> • 2028 Grad
 </p>
 
 <p align="center">
