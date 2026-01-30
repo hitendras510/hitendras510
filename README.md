@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=250&section=header&text=Hitendra%20Singh&fontSize=90&animation=fadeIn&fontAlignY=35" alt="Hitendra Singh" />
 </p>
 
-<h2 align="center">Full Stack Developer • Data Structures & Algorithms • Problem Solving</h2>
+<h2 align="center">Full Stack Developer • Data Structures & Algorithms • Problem Solving Ability</h2>
 
 ---
 
