@@ -101,3 +101,9 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
+<h2 align="center">💻 Featured Projects</h2>
+<div align="center">
+  <a href="https://github.com/hitendras510">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendras510&theme=react&border_radius=10&bg_color=0D1117&title_color=339933&icon_color=339933" />
+  </a>
+</div>
