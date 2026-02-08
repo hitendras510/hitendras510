@@ -13,7 +13,7 @@
   ---
   
   ### 🚀 About Me
-
+  
   Currently a **2nd Year B.Tech Student** at **RGPV**. I am strictly focused on **Backend Architecture** and **Scalable Systems**. My goal is to crack **GSoC** and build robust open-source tools.
   
   | 🧠 **Problem Solving** | 🛠️ **Core Stack** | 🌱 **Learning** |
@@ -62,6 +62,15 @@
 
 ---
 
+<h2 align="center">💻 Featured Projects</h2>
+<div align="center">
+  <a href="https://github.com/hitendras510">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendras510&theme=react&border_radius=10&bg_color=0D1117&title_color=339933&icon_color=339933" />
+  </a>
+</div>
+
+---
+
 <h2 align="center">📊 Coding Activity & Stats</h2>
 
 <div align="center">
@@ -87,7 +96,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=100&section=footer&text=Let's%20Connect&fontSize=30&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=100&section=footer&text=Let's%20Connect&fontSize=30&fontAlignY=40&fontColor=ffffff" />
 </div>
 
 <div align="center">
@@ -97,13 +106,13 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/hitendras510">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/hitendra018">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
   <a href="https://instagram.com/YOUR_INSTAGRAM_HERE">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-<h2 align="center">💻 Featured Projects</h2>
-<div align="center">
-  <a href="https://github.com/hitendras510">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hitendras510&theme=react&border_radius=10&bg_color=0D1117&title_color=339933&icon_color=339933" />
   </a>
 </div>
