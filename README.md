@@ -1,90 +1,103 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=250&section=header&text=Hitendra%20Singh&fontSize=90&animation=fadeIn&fontAlignY=35" alt="Hitendra Singh" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=280&section=header&text=Hitendra%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Engineering%20Student%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%202028%20Grad&descAlignY=55&descAlign=50" alt="Hitendra Singh Header" />
+</div>
 
-<h2 align="center">Full Stack Developer • Data Structures & Algorithms • Problem Solving Ability</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=339933&center=true&vCenter=true&width=435&lines=Backend+%26+Cloud+Engineering;Solved+200%2B+DSA+Problems;Open+Source+Enthusiast;MERN+Stack+Developer" alt="Typing SVG" />
+  </a>
+</div>
 
----
+<div align="center">
+  
+  ---
+  
+  ### 🚀 About Me
 
-## 🚀 About Me
+  Currently a **2nd Year B.Tech Student** at **RGPV**. I am strictly focused on **Backend Architecture** and **Scalable Systems**. My goal is to crack **GSoC** and build robust open-source tools.
+  
+  | 🧠 **Problem Solving** | 🛠️ **Core Stack** | 🌱 **Learning** |
+  | :--- | :--- | :--- |
+  | C++ (DSA) | Node.js, Express, PostgreSQL | Cloud Engineering |
+  | 200+ Solved | WebSockets, Next.js | System Design |
+  
+  ---
 
-> [!IMPORTANT]
-> ### 👨‍💻 Engineering Student | Backend Focused
-> - 🎓 **2nd Year B.Tech Student**.
-> - ⚙️ Specialized in **Node.js, Next.js, Express, and Real-time WebSockets**.
-> - 🧠 Solved **200+ DSA Problems** (Primary language: **C++**).
-> - ☁️ Focused on **Backend & Cloud Engineering** for internship readiness.
-> - 🌱 Goal: **Google Summer of Code (GSoC)** & Open Source contributions.
+</div>
 
----
+<h2 align="center">🛠️ Tech Stack & Arsenal</h2>
 
-## 🛠️ Tech Stack
+<div align="center">
 
 ### 👨‍💻 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-### ⚙️ Backend & Database
-| Category | Tech Stack & Tools |
-| :--- | :--- |
-| **Server** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=google-cloud&logoColor=white) |
-| **Real-time** | ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) |
-| **Auth** | ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![bcrypt](https://img.shields.io/badge/bcrypt-4A90E2?style=flat-square) ![CORS](https://img.shields.io/badge/CORS-API_Security-2E7D32?style=flat-square) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
+### ⚙️ Backend & Architecture
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
+<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
 
-### 🌐 Frontend (Frameworks & Styling)
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+### 🗄️ Database & Security
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 
-### 🛠️ DevOps & Tooling
-| Category | Tech Stack & Tools |
-| :--- | :--- |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| **Monorepo** | ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white) ![Monorepo](https://img.shields.io/badge/Monorepo-000000?style=for-the-badge&logo=databricks&logoColor=white) |
-| **API Testing** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+### 🌐 Frontend & Frameworks
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
----
+### 🔧 DevOps & Tools
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
 
-## 🧠 LeetCode Activity
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/hitendra018?theme=dark&font=Karma&ext=activity" />
-</p>
+</div>
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hitendras510&show_icons=true&theme=react&border_radius=10" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitendras510&layout=compact&theme=react&border_radius=10" height="165"/>
-</p>
+<h2 align="center">📊 Coding Activity & Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitendras510&theme=react&border_radius=10" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/hitendra018?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=hitendras510&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=0D1117&title_color=339933&icon_color=339933" height="180" alt="Hitendra's Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitendras510&layout=compact&theme=react&border_radius=10&bg_color=0D1117&title_color=339933&icon_color=339933&hide=css,html" height="180" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitendras510&theme=react&border_radius=10&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D&ring=339933&fire=339933&currStreakLabel=339933" alt="Streak Stats" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=150&section=footer&text=Let's%20Build%20Together&fontSize=30&fontAlignY=60" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=100&section=footer&text=Let's%20Connect&fontSize=30&fontAlignY=40" />
+</div>
 
-<p align="center">
-  <b>Hitendra Singh</b> • 2028 Grad
-</p>
-
-<p align="center">
+<div align="center">
   <a href="mailto:hitendrasingh5489@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/hitendras510">
-    <img src="https://img.shields.io/badge/Follow-hitendras510-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  <a href="https://instagram.com/YOUR_INSTAGRAM_HERE">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
