@@ -120,8 +120,13 @@
 <h2 align="center">📊 Performance Analytics</h2>
 
 <div align="center">
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitendras510&theme=react-dark&color=00ff7f&hide_border=true&area=true" width="100%" />
   
+  <br/><br/>
+
+  <img src="https://ghchart.rshah.org/00ff7f/hitendras510" alt="Hitendra's Github Chart" width="100%" />
+
   <br/><br/>
 
   <img src="https://github-profile-trophy.vercel.app/?username=hitendras510&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
@@ -131,7 +136,7 @@
   <table align="center">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=hitendras510&show_icons=true&theme=dark&rank_icon=github&border_color=00ff7f&bg_color=0d1117&title_color=00ff7f&icon_color=00ff7f" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api?username=hitendras510&show_icons=true&theme=dark&rank_icon=github&border_color=00ff7f&bg_color=0d1117&title_color=00ff7f&icon_color=00ff7f&hide_border=true" height="180" />
       </td>
       <td>
         <img src="https://leetcard.jacoblin.cool/hitendra018?theme=dark&font=JetBrains%20Mono&ext=activity" height="180" />
