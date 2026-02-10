@@ -16,7 +16,7 @@
 
   <br/>
 
-  > *"I engineer scalable, secure systems. Currently mastering **System Design**, **Monorepo Architectures**, and **Cloud Fundamentals**."*
+  > *"I engineer scalable, secure systems. Currently mastering **Data Cloud Engineering** and **Full Stack Architecture**."*
 
 </div>
 
@@ -141,23 +141,36 @@
 ---
 
 <div align="center">
+  <h2 align="center">🚀 Let's Build Something Together</h2>
 
-  <h2 align="center">🤝 Let's Connect</h2>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Currently_Building-Scalable_Auth_Systems-00ff7f?style=flat-square&logo=blueprint&logoColor=black" />
+    <img src="https://img.shields.io/badge/Open_To-Collaborations-white?style=flat-square&logo=github&logoColor=black" />
+  </p>
+
+  <br/>
 
   <a href="https://linkedin.com/in/hitendra-singh-b54a6b33a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hitendrasingh5489@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/hitendra018">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.instagram.com/_hitxndra/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/hitendras510">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <br/><br/>
-  
-  > *"Simplicity is the soul of efficiency."*
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:00ff7f&height=60&section=footer" width="100%" />
 
+  <p align="center">
+    <b><i>Open for Work</i></b>
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00ff7f&height=100&section=footer&text=2028%20GRAD&fontSize=20&fontAlignY=65&fontColor=000000" width="100%" />
 </div>
