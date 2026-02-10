@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Solved+200%2B+DSA+Problems;Cloud+Native+Architecture;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Solved+100%2B+DSA+Problems;Secure+API+Architecture;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
   <br/>
 
-  > *"I don't just write code; I engineer scalable, high-performance systems. Currently mastering **System Design** and **Cloud Architecture** to bridge the gap between software and infrastructure."*
+  > *"I engineer scalable, secure systems. Currently mastering **System Design**, **Monorepo Architectures**, and **Cloud Fundamentals**."*
 
 </div>
 
@@ -29,11 +29,13 @@
     <tr>
       <td align="center" width="120">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
-        <br/><b>DSA & Core</b>
+        <br/><b>Languages</b>
       </td>
       <td align="left">
         <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       </td>
     </tr>
@@ -44,33 +46,56 @@
       </td>
       <td align="left">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/API-REST-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="120">
+        <img src="https://cdn-icons-png.flaticon.com/512/2092/2092663.png" alt="icon" width="55" height="55" />
+        <br/><b>Security</b>
+      </td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+        <img src="https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bcrypt-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+        <img src="https://img.shields.io/badge/CORS-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+        <br/><b>Frontend</b>
+      </td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
       </td>
     </tr>
     <tr>
       <td align="center" width="120">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-        <br/><b>Data</b>
+        <br/><b>Data & DB</b>
       </td>
       <td align="left">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/DSA-100%2B_Solved-00ff7f?style=for-the-badge&logo=leetcode&logoColor=black" />
       </td>
     </tr>
     <tr>
       <td align="center" width="120">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
-        <br/><b>DevOps</b>
+        <br/><b>Arch & Tools</b>
       </td>
       <td align="left">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Monorepo-Architecture-black?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloud-Fundamentals-232F3E?style=for-the-badge&logo=google-cloud&logoColor=white" />
       </td>
     </tr>
   </table>
@@ -86,7 +111,7 @@
 | :--- | :--- | :--- |
 | **Real-Time Chat Engine** | High-concurrency chat system using WebSockets. | `Node.js` `Socket.io` `Redis` |
 | **Scalable API Gateway** | Microservices architecture entry point with rate limiting. | `Express` `Docker` `Nginx` |
-| **Cloud File Storage** | Secure file upload service with S3 integration. | `AWS S3` `Multer` `PostgreSQL` |
+| **Secure Auth System** | Role-based auth with JWT, bcrypt & best practices. | `Auth.js` `Next.js` `PostgreSQL` |
 
 </div>
 
@@ -125,11 +150,8 @@
   <a href="mailto:hitendrasingh5489@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-00ff7f?style=for-the-badge&logo=google-chrome&logoColor=black" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Ko--fi-Support_Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  <a href="https://github.com/hitendras510">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <br/><br/>
