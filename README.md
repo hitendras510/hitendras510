@@ -145,36 +145,38 @@
 ---
 
 <div align="center">
-  <h2 align="center">🚀 Let's Build Something Together</h2>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff7f&height=2&width=100%" />
+  
+  <h2 align="center">🌐 Connect & Collaborate</h2>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Currently_Building-Scalable_Auth_Systems-00ff7f?style=flat-square&logo=blueprint&logoColor=black" />
-    <img src="https://img.shields.io/badge/Open_To-Collaborations-white?style=flat-square&logo=github&logoColor=black" />
+    <em>"Building the web, one endpoint at a time."</em>
   </p>
+
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/hitendra-singh-b54a6b33a/">
+           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:hitendrasingh5489@gmail.com">
+           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </td>
+       <td align="center">
+        <a href="https://github.com/hitendras510">
+           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <br/>
 
-  <a href="https://linkedin.com/in/hitendra-singh-b54a6b33a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hitendrasingh5489@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/hitendra018">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.instagram.com/_hitxndra/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/hitendras510">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
+  <img src="https://komarev.com/ghpvc/?username=hitendras510&label=TRAFFIC_LOGS&color=00ff7f&style=plastic" />
+  
   <br/><br/>
-
-  <p align="center">
-    <b><i>Open for Work</i></b>
-  </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=00ff7f&height=100&section=footer&text=2028%20GRAD&fontSize=20&fontAlignY=65&fontColor=000000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=00ff7f&height=80&section=footer&text=2028%20GRAD&fontSize=20&fontAlignY=50&fontColor=000000" width="100%" />
 </div>
