@@ -83,7 +83,7 @@
       <td align="left">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/DSA-100%2B_Solved-00ff7f?style=for-the-badge&logo=leetcode&logoColor=black" />
+        <img src="https://img.shields.io/badge/DSA-200%2B_Solved-00ff7f?style=for-the-badge&logo=leetcode&logoColor=black" />
       </td>
     </tr>
     <tr>
