@@ -83,7 +83,7 @@
       <td align="left">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/DSA-200%2B_Solved-00ff7f?style=for-the-badge&logo=leetcode&logoColor=black" />
+        <img src="https://img.shields.io/badge/DSA-100%2B_Solved-00ff7f?style=for-the-badge&logo=leetcode&logoColor=black" />
       </td>
     </tr>
     <tr>
@@ -144,48 +144,32 @@
 
 ---
 
----
-
 <div align="center">
+  <h2 align="center">🤝 Connect & Collaborate</h2>
 
-  <h2>🚀 Let’s Build Scalable Systems Together</h2>
-
-  <p>
-    <b>Backend • Distributed Systems • Data & Cloud Engineering</b>
-  </p>
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Status-Open%20for%20Internships%20%26%20Collaboration-00ff7f?style=for-the-badge&logo=rocket&logoColor=black" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=400&lines=Open+for+Internships;Lets+Discuss+System+Design;Reach+Out+Below!" alt="Typing SVG" />
+  </a>
 
   <br/><br/>
 
-  <!-- Social Links -->
   <a href="https://linkedin.com/in/hitendra-singh-b54a6b33a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00ff7f" />
   </a>
   <a href="mailto:hitendrasingh5489@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00ff7f" />
+  </a>
+  <a href="https://leetcode.com/hitendra018">
+    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00ff7f" />
+  </a>
+  <a href="https://www.instagram.com/_hitxndra/">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00ff7f" />
   </a>
   <a href="https://github.com/hitendras510">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00ff7f" />
   </a>
 
   <br/><br/>
 
-  <!-- Divider Line -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff7f,100:1a1a1a&height=3&section=footer" width="100%" />
-
-  <br/>
-
-  <p>
-    <b>⚡ Engineering Secure & Scalable Architectures</b><br/>
-    <i>Backend Engineer | 2028 Graduate | India 🇮🇳</i>
-  </p>
-
-  <br/>
-
-  <!-- Animated Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,100:000000&height=120&section=footer&animation=twinkling&fontColor=00ff7f" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:00ff7f&height=120&section=footer&text=2028%20GRAD&fontSize=25&fontAlignY=40&fontColor=ffffff&desc=Hitendra%20Singh&descAlignY=60&descSize=15" width="100%" />
 </div>
