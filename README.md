@@ -144,39 +144,48 @@
 
 ---
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff7f&height=2&width=100%" />
-  
-  <h2 align="center">🌐 Connect & Collaborate</h2>
 
-  <p align="center">
-    <em>"Building the web, one endpoint at a time."</em>
+  <h2>🚀 Let’s Build Scalable Systems Together</h2>
+
+  <p>
+    <b>Backend • Distributed Systems • Data & Cloud Engineering</b>
   </p>
-
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="https://linkedin.com/in/hitendra-singh-b54a6b33a/">
-           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:hitendrasingh5489@gmail.com">
-           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-      </td>
-       <td align="center">
-        <a href="https://github.com/hitendras510">
-           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=hitendras510&label=TRAFFIC_LOGS&color=00ff7f&style=plastic" />
-  
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Internships%20%26%20Collaboration-00ff7f?style=for-the-badge&logo=rocket&logoColor=black" />
+
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=00ff7f&height=80&section=footer&text=2028%20GRAD&fontSize=20&fontAlignY=50&fontColor=000000" width="100%" />
+
+  <!-- Social Links -->
+  <a href="https://linkedin.com/in/hitendra-singh-b54a6b33a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hitendrasingh5489@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/hitendras510">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Divider Line -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff7f,100:1a1a1a&height=3&section=footer" width="100%" />
+
+  <br/>
+
+  <p>
+    <b>⚡ Engineering Secure & Scalable Architectures</b><br/>
+    <i>Backend Engineer | 2028 Graduate | India 🇮🇳</i>
+  </p>
+
+  <br/>
+
+  <!-- Animated Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,100:000000&height=120&section=footer&animation=twinkling&fontColor=00ff7f" width="100%" />
+
 </div>
