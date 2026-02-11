@@ -143,33 +143,57 @@
 </div>
 
 ---
+---
 
 <div align="center">
-  <h2 align="center">🤝 Connect & Collaborate</h2>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=400&lines=Open+for+Internships;Lets+Discuss+System+Design;Reach+Out+Below!" alt="Typing SVG" />
-  </a>
+  <!-- Top Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff7f,100:0D1117&height=4&section=footer" width="100%" />
+
+  <br/>
+
+  <h2>🚀 Let's Engineer Scalable Systems</h2>
+
+  <p>
+    <b>Backend • Distributed Systems • Data & Cloud Architecture</b>
+  </p>
+
+  <br/>
+
+  <!-- Clean Status Badge -->
+  <img src="https://img.shields.io/badge/Actively%20Seeking-Backend%20%26%20Cloud%20Internships-00ff7f?style=for-the-badge&logo=rocket&logoColor=black" />
 
   <br/><br/>
 
+  <!-- Social Links (Symmetric & Premium) -->
   <a href="https://linkedin.com/in/hitendra-singh-b54a6b33a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00ff7f" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00ff7f"/>
   </a>
+
   <a href="mailto:hitendrasingh5489@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00ff7f" />
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-0D1117?style=for-the-badge&logo=gmail&logoColor=00ff7f"/>
   </a>
+
   <a href="https://leetcode.com/hitendra018">
-    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00ff7f" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=00ff7f"/>
   </a>
-  <a href="https://www.instagram.com/_hitxndra/">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00ff7f" />
-  </a>
+
   <a href="https://github.com/hitendras510">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00ff7f" />
+    <img src="https://img.shields.io/badge/GitHub-Projects-0D1117?style=for-the-badge&logo=github&logoColor=00ff7f"/>
   </a>
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:00ff7f&height=120&section=footer&text=2028%20GRAD&fontSize=25&fontAlignY=40&fontColor=ffffff&desc=Hitendra%20Singh&descAlignY=60&descSize=15" width="100%" />
+  <!-- Personal Branding Line -->
+  <p>
+    <b>⚡ Building Secure, Performant & Production-Ready Systems</b><br/>
+    <i>Hitendra Singh • Backend Engineer • 2028 Graduate • India</i>
+  </p>
+
+  <br/>
+
+  <!-- Premium Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00ff7f&height=130&section=footer&animation=fadeIn&fontColor=ffffff" width="100%" />
+
 </div>
+
