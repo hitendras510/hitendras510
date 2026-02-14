@@ -134,12 +134,12 @@
         <img src="https://github-readme-stats.vercel.app/api?username=hitendras510&show_icons=true&theme=dark&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=00ff7f&icon_color=00ff7f" height="180" />
       </td>
       <td align="center">
-        <img src="https://leetcard.jacoblin.cool/hitendra018?theme=dark&font=JetBrains%20Mono&ext=activity" height="260" />
+        <img src="https://leetcard.jacoblin.cool/hitendra018?theme=dark&font=JetBrains%20Mono&ext=activity" height="300" />
       </td>
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitendras510&theme=dark&border_radius=5&ring=00ff7f&fire=00ff7f&currStreakLabel=00ff7f&background=0D1117&hide_border=true" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitendras510&theme=dark&border_radius=5&ring=00ff7f&fire=00ff7f&currStreakLabel=00ff7f&background=0D1117&hide_border=true" width="70%" />
 </div>
 
 ---
