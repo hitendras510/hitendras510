@@ -171,5 +171,5 @@
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,40:00ff7f&height=150&section=footer&text=2028%20GRAD&fontSize=25&fontAlignY=40&fontColor=b3b3b3&desc=Hitendra%20Singh&descAlignY=60&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,40:00ff7f&height=120&section=footer&text=2028%20GRAD&fontSize=25&fontAlignY=40&fontColor=b3b3b3&desc=Hitendra%20Singh&descAlignY=60&descSize=15" width="100%" />
 </div>
