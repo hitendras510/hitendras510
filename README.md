@@ -22,7 +22,7 @@
 
 ---
 
-<h2 align="center">⚡ Tech Stack Matrix</h2>
+<h2 align="center">⚡ Tech Stack Matrix:</h2>
 
 <div align="center">
   <table>
