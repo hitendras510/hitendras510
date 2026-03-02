@@ -89,14 +89,31 @@
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
-        <br/><b>Arch & Tools</b>
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
+        <br/><b>DevOps</b>
       </td>
       <td align="left">
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+        <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+        <img src="https://img.shields.io/badge/LiteSVM-000000?style=for-the-badge&logo=linux&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
+        <br/><b>Cloud & Arch</b>
+      </td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+        <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Amazon%20SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white" />
+        <img src="https://img.shields.io/badge/System%20Scaling-232F3E?style=for-the-badge&logo=apache&logoColor=white" />
         <img src="https://img.shields.io/badge/Monorepo-Architecture-black?style=for-the-badge&logo=github" />
         <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloud-Fundamentals-232F3E?style=for-the-badge&logo=google-cloud&logoColor=white" />
       </td>
     </tr>
   </table>
