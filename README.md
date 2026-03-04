@@ -16,7 +16,7 @@
 
   <br/>
 
-  > *"I engineer scalable, secure systems. Currently mastering **Data Cloud Engineering** and **Full Stack Architecture**."*
+  > *"I engineer scalable, secure systems. Currently mastering **Data Cloud Engineering** and **Cloud Infrastructure**."*
 
 </div>
 
