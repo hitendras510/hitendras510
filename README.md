@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,100:333333&height=300&section=header&text=Hitendra%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=DevOps%20Focused%20Cloud%20Engineer&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Dynamic Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,100:333333&height=300&section=header&text=Hitendra%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=DevOps%20Focused%20Cloud%20Engineer&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Dynamic Header" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=DevOps+Focused+Cloud+Engineer;Data+Cloud+Engineering;Building+Scalable+Infrastructure;Solved+200%2B+DSA+Problems" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=DevOps+Focused+Cloud+Engineer;Data+Cloud+Engineering;Building+Scalable+Infrastructure;Solved+200%2B+DSA+Problems" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=hitendras510&label=Profile+Views&color=00ff7f&style=for-the-badge)
-  ![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-00ff7f?style=for-the-badge&logo=opensource&logoColor=black)
-  ![Focus](https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-00ff7f?style=for-the-badge&logo=linux&logoColor=black)
+  ![Profile Views](https://komarev.com/ghpvc/?username=hitendras510&label=Profile+Views&color=00ff7f&style=for-the-badge)
+  ![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-00ff7f?style=for-the-badge&logo=opensource&logoColor=black)
+  ![Focus](https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-00ff7f?style=for-the-badge&logo=linux&logoColor=black)
 
-  <br/>
+  <br/>
 
-  > *"I engineer scalable, secure cloud infrastructure. Currently mastering **DevOps** and **Data Cloud Engineering**."*
+  > *"I engineer scalable, secure cloud infrastructure. Currently mastering **DevOps** and **Data Cloud Engineering**."*
 
 </div>
 
@@ -111,6 +111,8 @@
         <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" />
         <img src="https://img.shields.io/badge/Amazon%20SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white" />
         <img src="https://img.shields.io/badge/System%20Scaling-232F3E?style=for-the-badge&logo=apache&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+        <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
         <img src="https://img.shields.io/badge/Monorepo-Architecture-black?style=for-the-badge&logo=github" />
         <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
