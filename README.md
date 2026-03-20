@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,100:333333&height=300&section=header&text=Hitendra%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=DevOps%20Focused%20Cloud%20Engineer&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Dynamic Header" />
+  <img src="http://googleusercontent.com/image_generation_content/1" alt="Hitendra Singh Custom Banner" width="100%" />
 </div>
 
 <div align="center">
