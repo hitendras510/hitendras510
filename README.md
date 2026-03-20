@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://googleusercontent.com/image_generation_content/1" alt="Hitendra Singh Custom Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/hitendras510/hitendras510/main/banner.png" alt="Hitendra Singh Custom Banner" width="100%" />
 </div>
 
 <div align="center">
