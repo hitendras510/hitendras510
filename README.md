@@ -19,13 +19,13 @@ Strong foundation in backend engineering, system design, and Data Structures & A
 ## 🚀 Selected Work
 
 **Auto-Scaling Web Infrastructure (AWS)**  
-Designed and deployed a highly available system using AMI, Launch Templates, Auto Scaling Groups, and Application Load Balancer to handle dynamic traffic and ensure fault tolerance.
+Architected a fault-tolerant and highly available system using AMI → Launch Templates → Auto Scaling Groups → Application Load Balancer, enabling dynamic scaling based on traffic and eliminating single points of failure. Designed for high availability across multiple AZs with automated instance replacement.
 
 **Containerized Microservices Deployment**  
-Built and deployed services using Docker with Nginx as reverse proxy, enabling scalable and isolated service architecture.
+Designed a containerized microservices architecture using Docker and Nginx reverse proxy, enabling service isolation, horizontal scalability, and simplified deployment workflows.
 
-**Real-Time Communication System**  
-Implemented WebSocket-based communication using Redis Pub/Sub for low-latency message delivery across distributed instances.
+**servicenow-employee-onboarding-offboarding **  
+Engineered an automated provisioning pipeline using ServiceNow Flow Designer and Service Catalog, enabling dynamic allocation of hardware, software access, and record creation based on employee lifecycle events.
 
 
 
