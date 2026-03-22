@@ -27,12 +27,7 @@ Built and deployed services using Docker with Nginx as reverse proxy, enabling s
 **Real-Time Communication System**  
 Implemented WebSocket-based communication using Redis Pub/Sub for low-latency message delivery across distributed instances.
 
----
 
-## 🧠 Architecture
-
-* **AWS Scaling Flow:** EC2 → AMI → Launch Template → Auto Scaling → Load Balancer  
-* **Service Flow:** Client → Nginx → Node.js → Redis → Scalable Instances  
 
 ---
 
