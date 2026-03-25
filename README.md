@@ -13,6 +13,7 @@ Strong foundation in backend engineering, system design, and Data Structures & A
 * **Backend & Security:** Node.js, Express.js, REST APIs, Socket.io, JWT, Auth.js, Bcrypt, CORS  
 * **Cloud & DevOps:** AWS (EC2, AMI, Launch Templates, Auto Scaling Groups, Application Load Balancer, ECS, SQS), Docker, Kubernetes, Linux, Nginx, CI/CD, Grafana  
 * **Databases:** PostgreSQL, MongoDB, Prisma  
+* **Tools:** Typst (Document automation) .  
 
 ---
 
