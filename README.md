@@ -51,4 +51,5 @@ Engineered an automated provisioning pipeline using ServiceNow Flow Designer and
     <img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00ff7f" />
   </a>
 </p>
+---
 <p>~ There's too much at stake</p> 
