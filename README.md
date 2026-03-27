@@ -52,6 +52,6 @@ Engineered an automated provisioning pipeline using ServiceNow Flow Designer and
   </a>
 </p>
 
----
 
-<p>~ There's too much at stake</p> 
+
+<p>                                                                                                                                                                    ~ There's too much at stake</p> 
