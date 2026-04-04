@@ -21,11 +21,14 @@ I design and deploy scalable cloud systems using AWS and containerized microserv
 
 ## 🚀 Featured Projects
 
-**EcoNav-AI** > An OpenEnv-compliant Reinforcement Learning environment built for the Meta AI Environmental Decision Intelligence Hackathon. Focuses on data-driven environmental decision-making.
+**EcoNav-AI** 
+An OpenEnv-compliant Reinforcement Learning environment built for the Meta AI Environmental Decision Intelligence Hackathon. Focuses on data-driven environmental decision-making.
 
-**Containerized Microservices Architecture** > Engineered a scalable microservices deployment utilizing Docker and an Nginx reverse proxy. This setup guarantees service isolation, facilitates horizontal scalability, and streamlines deployment workflows.
+**Containerized Microservices Architecture** 
+Engineered a scalable microservices deployment utilizing Docker and an Nginx reverse proxy. This setup guarantees service isolation, facilitates horizontal scalability, and streamlines deployment workflows.
 
-**ServiceNow Employee Lifecycle Automation** > Built an automated provisioning pipeline using ServiceNow Flow Designer and Service Catalog. Dynamically allocates hardware, manages software access, and automates record creation based on employee onboarding and offboarding events.
+**ServiceNow Employee Lifecycle Automation** 
+Built an automated provisioning pipeline using ServiceNow Flow Designer and Service Catalog. Dynamically allocates hardware, manages software access, and automates record creation based on employee onboarding and offboarding events.
 
 ---
 
