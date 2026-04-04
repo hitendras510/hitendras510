@@ -22,6 +22,7 @@ I design and deploy scalable cloud systems using AWS and containerized microserv
 ## 🚀 Featured Projects
 
 **EcoNav-AI** 
+<br>
 An OpenEnv-compliant Reinforcement Learning environment built for the Meta AI Environmental Decision Intelligence Hackathon. Focuses on data-driven environmental decision-making.
 
 **Containerized Microservices Architecture** 
