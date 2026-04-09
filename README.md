@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hitendra Singh
+# Hi 👋, I'm Hitendra 
 
 **DevOps & Cloud Engineer | B.Tech (Class of 2028)**
 
