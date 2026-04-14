@@ -13,7 +13,7 @@ I design and deploy scalable cloud systems using AWS and containerized microserv
 | **Languages** | C++, Java, TypeScript, JavaScript, Python |
 | **Backend & Security** | Node.js, Express.js, REST APIs, Socket.io, JWT, Auth.js, Bcrypt, CORS |
 | **Cloud Architecture** | AWS (EC2, AMI, Launch Templates, ASG, ALB, ECS, SQS) |
-| **DevOps & Containers** | Docker, Kubernetes, Linux, Nginx, CI/CD |
+| **DevOps & Containers** | Docker, k8s, Linux, Nginx, CI/CD |
 | **Databases** | PostgreSQL, MongoDB, Prisma |
 | **Observability & Tools** | Prometheus, Grafana, New Relic, Typst, LaTeX |
 
