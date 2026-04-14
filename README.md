@@ -32,6 +32,10 @@ Engineered a scalable microservices deployment utilizing Docker and an Nginx rev
 Built an automated provisioning pipeline using ServiceNow Flow Designer and Service Catalog. Dynamically allocates hardware, manages software access, and automates record creation based on employee onboarding and offboarding events.
 
 ---
+#🏆 Achievements
+
+Grand Finalist, Meta PyTorch OpenEnv Hackathon x Scaler: Cleared Round 1 to advance to the on-campus Grand Finale in Bangalore, ranking among the top teams out of 52,000+ registered developers.
+---
 
 ## 🤝 Let's Connect
 
