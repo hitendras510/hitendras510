@@ -10,7 +10,7 @@ I design and deploy scalable cloud systems using AWS and containerized microserv
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C++, Java, TypeScript, JavaScript, Python |
+| **Languages** | C++, Python, TypeScript, JavaScript,java  |
 | **Backend & Security** | Node.js, Express.js, REST APIs, Socket.io, JWT, Auth.js, Bcrypt, CORS |
 | **Cloud Architecture** | AWS (EC2, AMI, Launch Templates, ASG, ALB, ECS, SQS) |
 | **DevOps & Containers** | Docker, k8s, Linux, Nginx, CI/CD |
