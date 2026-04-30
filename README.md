@@ -1,68 +1,57 @@
 # Hi 👋, I'm Hitendra  
-### DevOps & Cloud Engineer | B.Tech (Class of 2028)
+### Data Cloud & DevOps Engineer
 
-I build and optimize production-grade cloud systems with a focus on **scalability, reliability, and developer experience**.  
-Currently contributing to open source and working on **containerized infrastructure, CI/CD systems, and cloud-native architectures**.
-
----
-
-## 🚀 What I Do
-- Design **scalable cloud architectures** using AWS (EC2, ASG, ALB, ECS)
-- Build and optimize **Docker-based deployment pipelines**
-- Contribute to **open source DevOps tooling (Dokploy)**
-- Focus on **low-latency systems, observability, and infra automation**
-- Strong in **DSA + backend engineering fundamentals**
+I architect and optimize production-grade cloud infrastructure with a strict focus on **scalability, site reliability, and developer experience**. I specialize in containerized deployments, resilient CI/CD pipelines, and designing distributed, low-latency backend systems.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Core Engineering Focus
+- **Cloud Architecture:** Designing highly available, fault-tolerant infrastructure on AWS (EC2, ECS, ASG, ALB).
+- **Infrastructure & Automation:** Building optimized Docker deployment pipelines and managing containerized workloads.
+- **Site Reliability:** Engineering robust observability flows and low-latency system optimizations.
+- **Open Source:** Actively contributing to modern deployment platforms and DevOps tooling.
+
+---
+
+## 🛠 Technical Arsenal
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | C++, Python, TypeScript, JavaScript, Java |
-| **Backend** | Node.js, Express.js, REST APIs, WebSockets |
-| **Security** | JWT, Auth.js, Bcrypt, CORS |
-| **Cloud** | AWS (EC2, AMI, Launch Templates, ASG, ALB, ECS, SQS) |
-| **DevOps** | Docker, Kubernetes, Linux, Nginx, CI/CD |
-| **Databases** | PostgreSQL, MongoDB, Prisma |
+| **Cloud & DevOps** | AWS (EC2, ECS, ASG, ALB, SQS), Docker, Kubernetes, Linux, Nginx, CI/CD |
+| **Backend & APIs** | Node.js, Express.js, REST, WebSockets, Prisma |
+| **Databases** | PostgreSQL, MongoDB |
+| **Languages** | C++, TypeScript, Python, Java |
 | **Observability** | Prometheus, Grafana, New Relic |
 
 ---
 
 ## 🔥 Open Source Contributions
 
-**Dokploy (Deployment Platform)**
-- Improved Docker build system by making **Node.js version configurable**
-- Added **Node 25 support** to modernize runtime compatibility
-- Enhanced developer flexibility in containerized environments
+**[Dokploy](https://github.com/dokploy/dokploy) (Deployment Platform / PaaS)**
+- Engineered configurable Node.js versioning within the Docker build system, expanding developer flexibility for containerized environments.
+- Integrated native support for Node 25, modernizing runtime compatibility across the platform.
 
 ---
 
-## 🚀 Featured Projects
-
-### **EcoNav-AI** | [Live Demo](https://huggingface.co/spaces/hitendras510/EcoNav-ai) • [GitHub](https://github.com/hitendras510/EcoNav-AI)
-Reinforcement Learning environment for environmental decision-making  
-- Built for Meta AI OpenEnv Hackathon  
-- Designed agent-based simulation with reward optimization  
+## 💻 Selected Engineering Projects
 
 ### **OpenCloud-SRE** | [Live Demo](https://huggingface.co/spaces/hitendras510/OpenCloud-SRE) • [GitHub](https://github.com/hitendras510/OpenCloud-SRE)
-Site Reliability Engineering initiative for distributed systems
-- Focused on scaling cloud reliability through cognitive compression and distributed routing
-- Designed to optimize infrastructure performance and backend architecture 
+*Site Reliability Engineering initiative for distributed systems.*
+- Architected a system focused on scaling cloud reliability through cognitive compression and distributed routing.
+- Optimized infrastructure performance and backend fault tolerance.
 
-### **GDP Hackathon Project** | [Live Demo](https://fair-forge-arena.vercel.app/) • [GitHub](https://github.com/hitendras510/GDP--Hackathon)
-Collaborative hackathon solution
-- Built a complete platform to detect, measure, explain, and automatically eliminate hidden algorithmic bias before it impacts real people's lives.
+### **EcoNav-AI** | [Live Demo](https://huggingface.co/spaces/hitendras510/EcoNav-ai) • [GitHub](https://github.com/hitendras510/EcoNav-AI)
+*OpenEnv-compliant Reinforcement Learning Environment.*
+- Engineered an agent-based simulation with complex reward optimization for environmental decision-making.
+- **Achievement:** Grand Finalist at the Meta PyTorch OpenEnv Hackathon (Ranked among top teams out of 52,000+ developers).
+
+### **Algorithmic Bias Detection Engine** | [Live Demo](https://fair-forge-arena.vercel.app/) • [GitHub](https://github.com/hitendras510/GDP--Hackathon)
+*Platform for evaluating predictive models.*
+- Built a comprehensive pipeline to detect, measure, explain, and automatically mitigate hidden algorithmic bias in real-time.
 
 ---
 
-## 🏆 Achievements
-- **Grand Finalist – Meta PyTorch OpenEnv Hackathon (Scaler x Meta)**  
-  Ranked among top teams out of **52,000+ developers**
-
----
-
-## 🤝 Connect With Me
+## 🤝 Connect & Collaborate
 <p align="left">
   <a href="mailto:hitendrasingh5489@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00ff7f" />
@@ -75,8 +64,5 @@ Collaborative hackathon solution
   </a>
   <a href="https://leetcode.com/hitendra018">
     <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00ff7f" />
-  </a>
-  <a href="https://codeforces.com/profile/hitendrasingh5489">
-    <img src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=00ff7f" />
   </a>
 </p>
