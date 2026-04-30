@@ -46,7 +46,7 @@ I architect production-grade cloud infrastructure and design high-performance ba
 - Engineered an agent-based simulation with complex reward optimization for environmental decision-making.
 - **Achievement:** Grand Finalist at the Meta PyTorch OpenEnv Hackathon (Ranked among top teams out of 52,000+ developers).
 
-### **Algorithmic Bias Detection Engine** | [Live Demo](https://fair-forge-arena.vercel.app/) • [GitHub](https://github.com/hitendras510/GDP--Hackathon)
+### **FairForge-Arena** | [Live Demo](https://fair-forge-arena.vercel.app/) • [GitHub](https://github.com/hitendras510/GDP--Hackathon)
 *Platform for evaluating predictive models.*
 - Built a comprehensive pipeline to detect, measure, explain, and automatically mitigate hidden algorithmic bias in real-time.
 
