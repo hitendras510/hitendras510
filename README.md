@@ -40,24 +40,19 @@ Currently contributing to open source and working on **containerized infrastruct
 
 ## 🚀 Featured Projects
 
-### **EcoNav-AI**
+### **EcoNav-AI** | [Live Demo](https://huggingface.co/spaces/hitendras510/EcoNav-ai) • [GitHub](https://github.com/hitendras510/EcoNav-AI)
 Reinforcement Learning environment for environmental decision-making  
 - Built for Meta AI OpenEnv Hackathon  
 - Designed agent-based simulation with reward optimization  
 
----
+### **OpenCloud-SRE** | [Live Demo](https://huggingface.co/spaces/hitendras510/OpenCloud-SRE) • [GitHub](https://github.com/hitendras510/OpenCloud-SRE)
+Site Reliability Engineering initiative for distributed systems
+- Focused on scaling cloud reliability through cognitive compression and distributed routing
+- Designed to optimize infrastructure performance and backend architecture 
 
-### **Containerized Microservices Architecture**
-- Designed **Docker-based microservices system**
-- Implemented **Nginx reverse proxy for routing & load balancing**
-- Achieved **service isolation + horizontal scalability**
-
----
-
-### **ServiceNow Employee Lifecycle Automation**
-- Automated onboarding/offboarding workflows
-- Built provisioning pipelines using **Flow Designer & Service Catalog**
-- Reduced manual ops overhead with event-driven automation
+### **GDP Hackathon Project** | [Live Demo](https://fair-forge-arena.vercel.app/) • [GitHub](https://github.com/hitendras510/GDP--Hackathon)
+Collaborative hackathon solution
+- Built a complete platform to detect, measure, explain, and automatically eliminate hidden algorithmic bias before it impacts real people's lives.
 
 ---
 
