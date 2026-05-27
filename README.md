@@ -6,7 +6,7 @@ I build scalable backend systems, cloud-native infrastructure, and performance-d
 My work focuses on low-latency engineering, infrastructure automation, algorithmic optimization, and quantitative research.
 
 * 🚀 Grand Finalist — Meta PyTorch OpenEnv Hackathon
-* 📈 WorldQuant IQC National-Level Qualified
+* 📈 WorldQuant IQC National-Level Qualified with Bronze Level.
 * ⚡ Open Source Contributor at Dokploy
 * 🧠 300+ DSA Problems Solved Across Competitive Platforms
 * ☁️ Backend & Cloud Engineering Focused (AWS + Distributed Systems)
@@ -34,7 +34,9 @@ Ranked among top teams from **52,000+ developers**, building reinforcement-learn
 
 ## 📈 WorldQuant International Quant Championship (IQC)
 
-Researching quantitative alpha factors involving:
+Ranked top 20% globally with bronze level.
+
+Created alpha factors involving:
 
 * Price-volume relationships
 * Volatility structures
